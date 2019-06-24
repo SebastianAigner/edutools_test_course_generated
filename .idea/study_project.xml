@@ -59,7 +59,7 @@
                       <option name="index" value="1" />
                       <option name="name" value="Sort and Reverse" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Failed" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
                         <map>
@@ -80,13 +80,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="17" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="72" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="// return the sorted and then reversed list." />
                                       <option name="possibleAnswer" value="return l.sorted().reversed()" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Failed" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
