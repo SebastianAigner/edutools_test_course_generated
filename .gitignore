@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Lists and Friends/Sort and Reverse/build/
+/Lists and Friends/Sort and Reverse/build/classes/java/main/

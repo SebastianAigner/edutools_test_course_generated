@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin_Test_Course1.iml" filepath="$PROJECT_DIR$/.idea/Kotlin_Test_Course1.iml" group="Kotlin_Test_Course1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse.iml" filepath="$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse.iml" group="Kotlin_Test_Course1/Lists_and_Friends-Sort_and_Reverse" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse_main.iml" group="Kotlin_Test_Course1/Lists_and_Friends-Sort_and_Reverse" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lists and Friends/Sort and Reverse/Lists_and_Friends-Sort_and_Reverse_test.iml" group="Kotlin_Test_Course1/Lists_and_Friends-Sort_and_Reverse" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Kotlin_Test_Course1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Kotlin_Test_Course1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Kotlin_Test_Course1/util" />
+    </modules>
+  </component>
+</project>

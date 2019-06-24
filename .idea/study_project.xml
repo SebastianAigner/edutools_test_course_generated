@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="14" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <EduCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Study" />
+          <option name="createDate" value="0" />
+          <option name="customPresentableName" />
+          <option name="description" value="Test Course in Kotlin." />
+          <option name="environment" value="" />
+          <option name="fromZip" value="true" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list />
+          </option>
+          <option name="language" value="kotlin 1.3" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Kotlin Test Course" />
+          <option name="public" value="false" />
+          <option name="sectionIds">
+            <list />
+          </option>
+          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="type" value="pycharm11 Python" />
+          <option name="updateDate" value="0" />
+          <option name="items">
+            <list>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Lists and Friends" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;h1&gt;Sort and Reverse&lt;/h1&gt;&#10;Given a list of numbers, sort them, and reverse the result so that you end up with a list that is sorted by descending values.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Try typing the first few letters of a method you think could exist. Like &lt;code&gt;rev&lt;/code&gt; or &lt;code&gt;sort&lt;/code&gt;.&#10;  Let the magic of IntelliJ guide you in your steps.&#10;&lt;/div&gt;&#10;&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Sorting and Reversing is not actually the fastest way to get a result that satisfies the constraints. Can you find a better solution?&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="0" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Sort and Reverse" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="44" />
+                                          <option name="offset" value="72" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="17" />
+                                      <option name="offset" value="72" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="// return the sorted and then reversed list." />
+                                      <option name="possibleAnswer" value="return l.sorted().reversed()" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
+                                <option name="text" value="// type your solution here&#10;&#10;fun backSort(l: List&lt;Int&gt;): List&lt;Int&gt; {&#10;    // return the sorted and then reversed list.&#10;}&#10;&#10;fun main() {&#10;    println(backSort(listOf(2, 5, 4, 6, 3, 1)))&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Tests.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Tests.kt" />
+                                <option name="text" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertEquals(backSort(listOf(5,4,6,3,2,1)), listOf(6,5,4,3,2,1))&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </EduCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
