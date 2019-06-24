@@ -1,7 +1,7 @@
 // type your solution here
 
 fun backSort(l: List<Int>): List<Int> {
-    //placeholder here.
+    return l.reversed()
 }
 
 fun main() {
